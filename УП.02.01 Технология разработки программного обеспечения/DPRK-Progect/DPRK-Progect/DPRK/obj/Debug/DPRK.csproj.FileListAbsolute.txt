@@ -1,0 +1,108 @@
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.csproj.ResolveComReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.Admin.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.BrigadirAddRabochih.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.BrigadirInfoORabotah.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.BrigadirInfoORashMaterial.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.GlavStroiUpr.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.GlavStroiUprAddTechnic.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.GlavStroiUprAddUchastok.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.HRmanager.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.ManagerAtributsInfo.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.ManagerRegObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.ManagerRegZakaz.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.NachUchastka.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.NachUchastkaAddRabotiNaObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.Properties.Resources.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.csproj.GenerateResource.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.csproj.CoreCompileInputs.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\bin\Debug\DPRK.exe.config
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\bin\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\bin\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.csprojAssemblyReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\bin\Debug\Xceed.Document.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\bin\Debug\Xceed.Words.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.csproj.CopyComplete
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK\DPRK\obj\Debug\DPRK.Login.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\bin\Debug\DPRK.exe.config
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\bin\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\bin\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\bin\Debug\Xceed.Document.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\bin\Debug\Xceed.Words.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.csprojAssemblyReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.csproj.ResolveComReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.Admin.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.BrigadirAddRabochih.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.BrigadirInfoORabotah.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.BrigadirInfoORashMaterial.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.Login.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.GlavStroiUpr.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.GlavStroiUprAddTechnic.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.GlavStroiUprAddUchastok.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.HRmanager.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.ManagerAtributsInfo.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.ManagerRegObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.ManagerRegZakaz.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.NachUchastka.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.NachUchastkaAddRabotiNaObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.Properties.Resources.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.csproj.GenerateResource.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.csproj.CoreCompileInputs.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.csproj.CopyComplete
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK — копия\DPRK\obj\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\bin\Debug\DPRK.exe.config
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\bin\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\bin\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\bin\Debug\Xceed.Document.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\bin\Debug\Xceed.Words.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.csprojAssemblyReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.ResolveComReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.Admin.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.BrigadirAddRabochih.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.BrigadirInfoORabotah.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.BrigadirInfoORashMaterial.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.Login.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.GlavStroiUpr.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.GlavStroiUprAddTechnic.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.GlavStroiUprAddUchastok.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.HRmanager.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.ManagerAtributsInfo.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.ManagerRegObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.ManagerRegZakaz.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.NachUchastka.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.NachUchastkaAddRabotiNaObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.Properties.Resources.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.GenerateResource.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.CoreCompileInputs.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.CopyComplete
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect\DPRK\obj\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\bin\Debug\DPRK.exe.config
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\bin\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\bin\Debug\DPRK.pdb
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\bin\Debug\Xceed.Document.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\bin\Debug\Xceed.Words.NET.dll
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.csprojAssemblyReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.ResolveComReference.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.Admin.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.BrigadirAddRabochih.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.BrigadirInfoORabotah.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.BrigadirInfoORashMaterial.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.Login.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.GlavStroiUpr.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.GlavStroiUprAddTechnic.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.GlavStroiUprAddUchastok.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.HRmanager.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.ManagerAtributsInfo.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.ManagerRegObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.ManagerRegZakaz.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.NachUchastka.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.NachUchastkaAddRabotiNaObj.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.Properties.Resources.resources
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.GenerateResource.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.CoreCompileInputs.cache
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.csproj.CopyComplete
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.exe
+D:\Мпт\3 курс\2 Семестр\УП1\DPRK-Progect-Final\DPRK-Progect\DPRK\obj\Debug\DPRK.pdb
